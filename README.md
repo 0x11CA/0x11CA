@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Hey there, I'm <span style="color:#2563EB"><strong>Mujahid Al-Sahib</strong></span> (aka <strong>0x11CA</strong>) – <em>The Bug Builder</em> 🐛💻
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=600&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Mujahid+Al-Sahib+(aka+0x11CA);The+Bug+Builder+%F0%9F%90%9B%F0%9F%92%BB" alt="Animated Header">
+</p>
+
 
 <p align="center">
   <a href="https://github.com/0x11CA">
