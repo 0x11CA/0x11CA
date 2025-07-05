@@ -1,57 +1,56 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3200&pause=600&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Mujahid+Al-Sahib;aka+0x11CA+%7C+The+Bug+Builder+%F0%9F%90%9B%F0%9F%92%BB" alt="Header" style="margin-bottom: 10px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3200&pause=600&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Mujahid+Al-Sahib;aka+0x11CA+%7C+The+Bug+Builder+%F0%9F%90%9B%F0%9F%92%BB" alt="Header" style="margin-bottom: 10px">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Cybersecurity+Specialist;DevOps+Engineer+%7C+Full-Stack+Developer;Building+secure+systems+with+every+bug+fixed+%F0%9F%94%92&color=2563EB" alt="Tagline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Cybersecurity+Specialist;DevOps+Engineer+%7C+Full-Stack+Developer;Building+secure+systems+with+every+bug+fixed+%F0%9F%94%92&color=2563EB" alt="Tagline">
 </p>
 
 <div align="center" style="margin: 20px 0">
   <img src="https://img.shields.io/badge/Location-Muscat,_Oman-2563EB?style=for-the-badge&logo=map&logoColor=white" alt="Location">
   <img src="https://komarev.com/ghpvc/?username=0x11CA&label=Profile+Views&color=2563EB&style=for-the-badge" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/0x11CA?label=Followers&style=for-the-badge&color=2563EB" alt="GitHub followers">
+  <img src="https://img.shields.io/badge/GitHub-Followers-2563EB?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=2563EB" alt="GitHub followers">
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/mH0yZ0b.png" width="100%" height="8" alt="divider">
+  <hr style="width: 100%; border: 0; height: 8px; background: linear-gradient(to right, #2563EB, #3B82F6); margin: 20px 0;">
 </div>
 
 ## 👨‍💻 About Me
 
 <p align="center">
-  <!-- Placeholder for your profile image -->
-  <img src="https://via.placeholder.com/220/2563EB/FFFFFF?text=0x11CA" width="220" style="border-radius: 50%; border: 3px solid #2563EB; box-shadow: 0 4px 8px rgba(37, 99, 235, 0.2);" alt="Profile Image">
+  <img src="https://avatars.githubusercontent.com/u/67197990?s=280&v=4" width="220" style="border-radius: 50%; border: 3px solid #2563EB; box-shadow: 0 4px 8px rgba(37, 99, 235, 0.2);" alt="Profile Image">
 </p>
 
 I'm an Omani software engineer passionate about building **secure**, **scalable systems** that make an impact. Known as **The Bug Builder**, I see every bug as an opportunity to strengthen systems and skills 🐞.
 
-- 🔐 **Security Engineering**: Threat modeling, cryptographic implementations, secure API design
-- ⚙️ **DevOps & Cloud**: CI/CD pipelines, containerization (Docker), AWS infrastructure
-- 🌐 **Full-Stack Development**: MERN stack, Flutter mobile apps, Firebase integration
-- 🧠 **Competitive Programming**: Algorithm design & optimization enthusiast
+- 🔐 **Security Engineering**: Threat modeling, cryptographic implementations, secure API design  
+- ⚙️ **DevOps & Cloud**: CI/CD pipelines, containerization (Docker), AWS infrastructure  
+- 🌐 **Full-Stack Development**: MERN stack, Flutter mobile apps, Firebase integration  
+- 🧠 **Competitive Programming**: Algorithm design & optimization enthusiast  
 
 <div align="center">
-  <img src="https://i.imgur.com/mH0yZ0b.png" width="100%" height="8" alt="divider">
+  <hr style="width: 100%; border: 0; height: 8px; background: linear-gradient(to right, #2563EB, #3B82F6); margin: 20px 0;">
 </div>
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,go,dart,php" height="50" style="margin: 0 10px" alt="programming languages">
 </p>
 
-### 🖥️ Frameworks & Libraries
+### 🖥️ Frameworks & Libraries  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,nextjs" height="50" style="margin: 0 10px" alt="frameworks">
 </p>
 
-### 🗄️ Databases & Infrastructure
+### 🗄️ Databases & Infrastructure  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker,github" height="50" style="margin: 0 10px" alt="databases">
 </p>
 
-### 🔐 Security Specialties
+### 🔐 Security Specialties  
 <p align="center">
   <img src="https://img.shields.io/badge/Cryptography-2563EB?style=flat-square&logo=keybase&logoColor=white" alt="Cryptography">
   <img src="https://img.shields.io/badge/Secure%20Coding-2563EB?style=flat-square&logo=lock&logoColor=white" alt="Secure Coding">
@@ -59,7 +58,7 @@ I'm an Omani software engineer passionate about building **secure**, **scalable 
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/mH0yZ0b.png" width="100%" height="8" alt="divider">
+  <hr style="width: 100%; border: 0; height: 8px; background: linear-gradient(to right, #2563EB, #3B82F6); margin: 20px 0;">
 </div>
 
 ## 🚀 Featured Projects
@@ -75,7 +74,7 @@ I'm an Omani software engineer passionate about building **secure**, **scalable 
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/mH0yZ0b.png" width="100%" height="8" alt="divider">
+  <hr style="width: 100%; border: 0; height: 8px; background: linear-gradient(to right, #2563EB, #3B82F6); margin: 20px 0;">
 </div>
 
 ## 📈 GitHub Activity
@@ -83,7 +82,7 @@ I'm an Omani software engineer passionate about building **secure**, **scalable 
 <div align="center">
   <a href="https://github.com/0x11CA">
     <img src="https://github-readme-stats.vercel.app/api?username=0x11CA&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=0x11CA&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x11CA&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="GitHub Streak">
   </a>
 </div>
 
@@ -96,7 +95,7 @@ I'm an Omani software engineer passionate about building **secure**, **scalable 
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/mH0yZ0b.png" width="100%" height="8" alt="divider">
+  <hr style="width: 100%; border: 0; height: 8px; background: linear-gradient(to right, #2563EB, #3B82F6); margin: 20px 0;">
 </div>
 
 ## 🌱 Beyond Code
@@ -117,7 +116,7 @@ I'm an Omani software engineer passionate about building **secure**, **scalable 
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/mH0yZ0b.png" width="100%" height="8" alt="divider">
+  <hr style="width: 100%; border: 0; height: 8px; background: linear-gradient(to right, #2563EB, #3B82F6); margin: 20px 0;">
 </div>
 
 ## 📫 Connect With Me
@@ -135,7 +134,7 @@ I'm an Omani software engineer passionate about building **secure**, **scalable 
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/mH0yZ0b.png" width="100%" height="8" alt="divider">
+  <hr style="width: 100%; border: 0; height: 8px; background: linear-gradient(to right, #2563EB, #3B82F6); margin: 20px 0;">
 </div>
 
 ## 💬 Developer's Mantra
