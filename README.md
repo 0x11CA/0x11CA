@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Hi+I'm+Mujahid+Said+Al-Sahib;Software+Engineer+%7C+Cybersecurity+%7C+DevOps;Open+Source+Contributor+%7C+0x11CA;Welcome+to+my+GitHub!+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Mujahid+Said+Al-Sahib;Software+Engineer+%7C+Cybersecurity+%7C+DevOps;Open+Source+Contributor+%7C+0x11CA;Welcome+to+my+GitHub!+👨‍💻" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0x11CA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
