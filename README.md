@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://github.com/0x11CA">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Hi+I'm+Mujahid+Al-Sahib;Software+Engineer+%7C+Cybersecurity+%7C+DevOps;Open+Source+Contributor+%7C+0x11CA" alt="Typing Intro" />
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mujahid+Al-Sahib;Software+Engineer+from+Oman;Backend+%7C+Security+%7C+DevOps;Open+Source+Contributor+%7C+0x11CA" alt="Typing Intro" />
+</h1>
+
 
 
 
