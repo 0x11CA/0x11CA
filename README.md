@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Hi, I'm Mujahid Al-Sahib (aka 0x11CA) – The Bug Builder 🐛💻
+  Hey there, I'm <span style="color:#58A6FF"><strong>Mujahid Al-Sahib</strong></span> (aka <strong>0x11CA</strong>) – The Bug Builder 🐛💻
 </h1>
 
 <p align="center">
   <a href="https://github.com/0x11CA">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=500&center=true&vCenter=true&width=700&height=80&lines=Software+Engineer;Cybersecurity+Enthusiast;DevOps+Practitioner;Open+Source+Contributor;Bug+Builder+on+a+Mission!&color=58A6FF" alt="Typing Intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=500&center=true&vCenter=true&width=700&height=80&lines=Software+Engineer;Cybersecurity+Specialist;DevOps+Practitioner;Open+Source+Contributor;Bug+Builder+on+a+Mission!&color=58A6FF" alt="Typing Intro">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## 👨‍💻 About Me
@@ -27,16 +27,16 @@
   <img src="https://raw.githubusercontent.com/0x11CA/0x11CA/main/assets/bug-builder.png" width="200" align="right" alt="Bug Builder">
 </p>
 
-I'm an Omani software engineer passionate about building **secure**, **scalable**, and **impactful tech**.  
-Known as **"The Bug Builder"**, I believe bugs are the best teachers 🐞.
+I'm a software engineer from Oman, passionate about crafting **secure**, **scalable**, and **impactful** technology.  
+I proudly go by **“The Bug Builder”**, because every bug is a stepping stone to mastery. 🐞
 
-- 🔐 **Security-First Development**: Cryptography, secure coding, OWASP
-- ⚙️ **DevOps & Cloud Automation**: CI/CD, Docker, GitHub Actions, AWS
-- 🌐 **Full-Stack Development**: MERN, APIs, scalable backend systems
-- 🧠 **Competitive Programming**: I solve problems for fun (and sometimes... for food 😅)
+- 🔐 **Security-Focused Engineer**: Cryptography, Secure Coding, Threat Modeling, Code Audits
+- ⚙️ **DevOps Practitioner**: Docker, GitHub Actions, CI/CD, AWS Infrastructure
+- 🌐 **Full-Stack Developer**: MERN Stack, REST APIs, Firebase, Flutter
+- 🧠 **Competitive Programmer**: From CP contests to building real-world problem solvers
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## 🛠️ Tech Stack
@@ -53,53 +53,54 @@ Known as **"The Bug Builder"**, I believe bugs are the best teachers 🐞.
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Cryptography-58A6FF?style=flat-square&logo=keybase&logoColor=white">
-  <img src="https://img.shields.io/badge/-OWASP-58A6FF?style=flat-square&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Threat%20Modeling-58A6FF?style=flat-square&logo=shield&logoColor=white">
   <img src="https://img.shields.io/badge/-Secure%20Coding-58A6FF?style=flat-square&logo=lock&logoColor=white">
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## 🚀 Featured Projects
 
-### 🔹 <img src="https://img.icons8.com/3d-fluency/24/experimental-bug-3d-fluency.png" width="24"/> [RihlaTech](https://github.com/0x11CA/RihlaTech)
-> **Competitive programming & learning platform**  
-> 🛠️ MERN Stack + AI + secure auth  
-> ⚡ Real-time code runner & challenge arena  
-> 📊 Leaderboard, analytics & chatbot
+### 🔹 [RihlaTech](https://github.com/0x11CA/RihlaTech)
+> 📚 Competitive programming & learning platform  
+> 💡 MERN Stack + AI + secure auth  
+> ⚡ Real-time coding, leaderboard, chatbot, challenge arena  
 
-### 🔹 <img src="https://img.icons8.com/3d-fluency/24/experimental-bug-3d-fluency.png" width="24"/> Secure Communication Tools
-> **Encrypt before you transmit**  
+### 🔹 Secure Communication Tools
 > 🔐 Caesar Cipher decryption via **BFS**  
-> 🚀 Node.js backend with cryptography modules  
-> 🛡️ Secured with best practices
+> 🔄 Node.js backend with crypto libraries  
+> 🛡️ Built with strong secure communication standards  
 
-### 🔹 <img src="https://img.icons8.com/3d-fluency/24/experimental-bug-3d-fluency.png" width="24"/> Muja-GPT
-> **Personalized AI programming tutor**  
-> 💬 Answers questions in real-time  
-> 🧠 NLP-enhanced understanding  
-> 🔗 Integrated with platform learning flow
+### 🔹 Muja-GPT
+> 🤖 AI-powered programming tutor  
+> 🧠 NLP-enhanced contextual answers  
+> 🔗 Integrated with your learning platform
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## 📈 GitHub Activity
 
 <div align="center">
-  
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x11CA&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" alt="Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x11CA&theme=github-dark-blue&hide_border=true" alt="Streak" /> |
 | ------------- | ------------- |
-  
+
 </div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x11CA&theme=github-dark&hide_border=true&radius=8" width="90%">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## 🌱 Beyond Coding
@@ -108,13 +109,13 @@ Known as **"The Bug Builder"**, I believe bugs are the best teachers 🐞.
   <img src="https://raw.githubusercontent.com/0x11CA/0x11CA/main/assets/palm-waste.png" width="300" alt="Palm Waste Project">
 </p>
 
-- ♻️ **Palm Waste to Biochar**: Tech for sustainable agriculture 🌾
+- ♻️ Turning palm waste into biochar to fight pollution in Oman 🌴🔥
 - ✈️ Academic visits to the UK (2019 & 2023)
-- 🏆 Hackathons, contests & team challenges
-- 📚 Mentor & builder of useful bugs 🐛
+- 🏆 Competed in hackathons, CP contests & team sprints
+- 🎓 Mentor, community builder, and bug enthusiast
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## 📫 Connect With The Bug Builder
@@ -132,7 +133,7 @@ Known as **"The Bug Builder"**, I believe bugs are the best teachers 🐞.
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 ## 💬 Bug Builder's Wisdom
