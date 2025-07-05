@@ -1,98 +1,103 @@
-<h1 align="center">Hi there 👋, I'm Mujahid Said Al-Sahib</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Hi+I'm+Mujahid+Said+Al-Sahib;Software+Engineer+%7C+Cybersecurity+%7C+DevOps;Open+Source+Contributor+%7C+0x11CA;Welcome+to+my+GitHub!+👨‍💻" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x11CA&label=Profile%20views&color=0e75b6&style=flat" alt="0x11CA" />
+  <img src="https://komarev.com/ghpvc/?username=0x11CA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/0x11CA?label=Follow&style=social" alt="GitHub followers">
 </p>
 
 <p align="center">
-  💻 Software Engineer • 🛡️ Cybersecurity Enthusiast • ⚙️ DevOps & Automation • 🧠 Competitive Programmer  
+  💻 Software Engineer • 🛡️ Cybersecurity Enthusiast • ⚙️ DevOps Engineer • 🧠 Competitive Programmer  
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-I'm **Mujahid Said Al-Sahib** (a.k.a **0x11CA**), a passionate **Software Engineer** from **Oman** 🇴🇲, with a deep interest in:
+Hi, I'm **Mujahid Al-Sahib**, a tech-driven Software Engineer from **Oman 🇴🇲**, also known as **0x11CA** online. I focus on:
 
-- 🔐 **Cybersecurity** & **Cryptography**
-- 🧪 **DevSecOps**, CI/CD & Automation
-- 🌐 **Full-Stack Web Development** (MERN)
-- 📱 **Mobile Apps** using Flutter & Firebase
-- 🤖 **AI Chatbots** & Smart Platforms
-- ⚔️ **Competitive Programming** & Algorithms
-
-I love building tools that solve real problems and exploring how code can impact lives—from **secure systems** to **educational platforms** aligned with Oman Vision 2040.
+- 🔐 Security-first development (Cryptography, Secure Coding)
+- 🔁 CI/CD, DevSecOps & Cloud Automation
+- 🌐 Full-stack (MERN) & backend-heavy systems
+- 📱 Mobile apps using Flutter & Firebase
+- 🤖 AI integrations & chatbots
+- 🏆 Problem solving in Competitive Programming
 
 ---
 
-## 🔧 Languages & Tools
+## 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go" />
-  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" />
-  <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" />
-  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,cpp,dart,php,html,css" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,firebase,tailwind" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws" />
 </p>
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Projects That Define Me
 
-### 🔹 [RihlaTech](https://github.com/0x11CA)
-An all-in-one competitive programming and course platform with:
-- 🧠 AI chatbot support
-- 🧑‍🎓 Student reports & rankings
-- 🧩 Challenges by difficulty
-- 📚 Admin dashboard for course management
+### 🔸 [RihlaTech](https://github.com/0x11CA)
+An interactive platform blending **programming courses** + **competitive questions**.  
+🔹 Features: AI chatbot, leaderboard, course suggestions, admin dashboard, student analytics.
 
-### 🔹 Muja-GPT
-An educational chatbot helping students understand programming concepts in a friendly and contextual way.
+### 🔸 Muja-GPT  
+AI chatbot built for learners. Friendly and focused on helping students grasp programming fundamentals in real-time.
 
-### 🔹 Secure Tools
-Includes encryption/decryption systems and cipher-cracking algorithms using **BFS** and modern security practices.
+### 🔸 Secure Tools  
+Crypto-based applications for safe communication and Caesar cipher decryption using **BFS** logic.
 
 ---
 
 ## 📜 Certifications
 
-- ☁️ **Cloud Computing (AWS, GCP)**
-- 🔐 **Cybersecurity Fundamentals**
-- ⚙️ **CI/CD & DevOps Pipelines**
-- 👨‍💻 **Secure Software Practices**
+✅ Cloud Platforms (AWS / GCP)  
+✅ DevOps & CI/CD (GitHub Actions, Docker)  
+✅ Cybersecurity Fundamentals  
+✅ Secure Software Development Lifecycle (SSDLC)
 
 ---
 
-## 🧠 Fun Facts
 
-- 🐞 I call myself a **“bug builder”** when debugging deep logic issues.
-- 🇬🇧 I visited the UK twice for educational experiences (2019, 2023).
-- 🌿 I started a **biochar & compost** tech project after witnessing palm waste pollution in my village.
-- ♻️ My solution promotes a circular economy, job creation, and sustainability.
+## 🌿 Beyond Code
+
+- 🇬🇧 Visited UK twice for academic & personal growth (2019 & 2023)
+- ♻️ Launched a project to turn **palm waste into biochar & compost**, reducing pollution and supporting farmers
+- 🐛 Known to joke as a **"bug builder"**, solving more problems than he creates (most of the time 😄)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-- 🧑‍💻 GitHub: [github.com/0x11CA](https://github.com/0x11CA)
+- 🌐 GitHub: [github.com/0x11CA](https://github.com/0x11CA)
 - 💼 LinkedIn: [linkedin.com/in/mujahid-alsahib](https://linkedin.com/in/mujahid-alsahib)
 - 📧 Email: mujhaid.alsahib@gmail.com
 
 ---
 
-<h3 align="center">“Never underestimate a curious mind with a compiler and a cup of karak.”</h3>
+## 💬 Developer Quote
+
+> “A good developer isn’t the one who knows everything — it’s the one who never stops solving.”  
+> — Mujahid Al-Sahib
+
+---
+
+<h3 align="center">"Build. Break. Fix. Repeat — that’s how legends are made."</h3>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x11CA&show_icons=true&theme=tokyonight" alt="0x11CA stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x11CA&theme=tokyonight&show_icons=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x11CA&theme=tokyonight" height="180" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0x11CA&theme=tokyonight&no-bg=true&margin-w=5&title=Stars,Commits,Repositories,Followers,PullRequest" />
 </p>
