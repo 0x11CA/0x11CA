@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0x11CA/0x11CA/main/assets/bug-builder.png" width="200" alt="Bug Builder">
+  <img src="https://i.imgur.com/VWlChTf.png" width="200" alt="Bug Builder Logo">
 </div>
 
 I'm a software engineer from Oman, passionate about crafting **secure**, **scalable**, and **impactful** technology.  
@@ -106,12 +106,12 @@ I proudly go by **“The Bug Builder”**, because every bug is a stepping stone
 ## 🌱 Beyond Coding
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0x11CA/0x11CA/main/assets/palm-waste.png" width="300" alt="Palm Waste Project">
+  <img src="https://i.imgur.com/fKacqvx.png" width="300" alt="Palm Waste Project">
 </div>
 
-- ♻️ Turning palm waste into biochar to fight pollution in Oman 🌴🔥
-- ✈️ Academic visits to the UK (2019 & 2023)
-- 🏆 Competed in hackathons, CP contests & team sprints
+- ♻️ Turning palm waste into biochar to fight pollution in Oman 🌴🔥  
+- ✈️ Academic visits to the UK (2019 & 2023)  
+- 🏆 Competed in hackathons, CP contests & team sprints  
 - 🎓 Mentor, community builder, and bug enthusiast
 
 <div align="center">
@@ -138,8 +138,7 @@ I proudly go by **“The Bug Builder”**, because every bug is a stepping stone
 
 ## 💬 Bug Builder's Wisdom
 
-> <p align="center">"Every bug is a lesson in disguise, <br>every fix a small victory in the journey of creation."</p>
-> 
+> <p align="center">"Every bug is a lesson in disguise, <br>every fix a small victory in the journey of creation."</p>  
 > <p align="center"><img src="https://img.icons8.com/3d-fluency/94/experimental-bug-3d-fluency.png" width="50"/> <strong>— Mujahid Al-Sahib (0x11CA)</strong></p>
 
 <p align="center">
