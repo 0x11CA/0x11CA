@@ -18,15 +18,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <!-- Replace with your actual profile image URL -->
-  <img src="https://avatars.githubusercontent.com/u/0x11CA" 
-       width="220" 
-       style="border-radius: 50%; border: 3px solid #2563EB; box-shadow: 0 4px 8px rgba(37, 99, 235, 0.2);" 
-       alt="Mujahid Al-Sahib Profile"
-       onerror="this.src='https://ui-avatars.com/api/?name=0x11CA&background=2563EB&color=fff&size=220'">
-</p>
-
 I'm an Omani software engineer passionate about building **secure**, **scalable systems** that make an impact. Known as **The Bug Builder**, I see every bug as an opportunity to strengthen systems and skills 🐞.
 
 - 🔐 **Security Engineering**: Threat modeling, cryptographic implementations, secure API design
@@ -127,10 +118,10 @@ I'm an Omani software engineer passionate about building **secure**, **scalable 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:mujhaid.alsahib@gmail.com">
+  <a href="mailto:mssaalsahib@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/mujahid-alsahib">
+  <a href="https://www.linkedin.com/in/mujahid-said-al-sahib-3b6773177/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
   </a>
   <a href="https://github.com/0x11CA">
